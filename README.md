@@ -1,6 +1,6 @@
 ## 👋 Hello! My name is Palaash Pandey
 
-I’m a sophomore Computer Science student at Texas A&M University with hands-on experience building and shipping production-grade mobile and backend systems. I enjoy working across the stack—from designing user-facing applications to developing backend services and internal tools that improve reliability and developer workflows.
+I’m a sophomore Computer Science student at Texas A&M University with hands-on experience building and shipping production-grade mobile and backend systems. I enjoy working full-stack, from designing user-facing applications to developing backend services and internal tools that improve reliability and developer workflows.
 
 ## 🔧 What I work with
 - **Languages**: JavaScript, TypeScript, Python, Java, C++, C
