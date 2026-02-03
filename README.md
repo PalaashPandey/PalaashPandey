@@ -5,7 +5,7 @@ I’m a sophomore Computer Science student at Texas A&M University with hands-on
 ## 🔧 What I work with
 - **Languages**: JavaScript, TypeScript, Python, Java, C++, C
 - **Frameworks**: React Native, Node.js, Express.js, Spring Boot
-- **Databases & Cloud**: AWS (EC2, Lambda, EventBridge), GCP (Compute Engine), Firebase, PostgreSQL
+- **Databases & Cloud**: AWS (EC2, Lambda, EventBridge, Lightsail, API Gateway), GCP (Compute Engine), Firebase, PostgreSQL
 - **Developer Tools**: Git, Docker
 
 ## 🚀 What I’m working on
