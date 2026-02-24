@@ -11,7 +11,7 @@ My name is Palaash Pandey, and I’m a Computer Science student at Texas A&M Uni
 ## 🚀 What I’m working on
 - **Aurora Trader** – A cross-platform algorithmic trading and analysis application featuring a Spring Boot backend and real-time data processing
 - **Olivia Healthcare** – A React Native application developed for the Texas A&M Health Science Center to support pregnancy and early motherhood education
-- **Maroon Rides** – The largest, student-run Texas A&M bus application, serving 32k+ active users
+- **Maroon Rides** – The largest, student-run Texas A&M bus application, navigating 32k+ active users around campus and more
 
 ## 🎯 Interests
 - Full-stack and mobile application development
